@@ -1,0 +1,4 @@
+# Copia este archivo como database.properties y escribe tu usuario y clave de MySQL.
+db.url=jdbc:mysql://127.0.0.1:3306/biblioteca?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=America/Santiago&characterEncoding=UTF-8
+db.user=root
+db.password=
